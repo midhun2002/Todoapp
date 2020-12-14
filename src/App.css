@@ -1,5 +1,12 @@
+.rev {
+  display: flex;
+  flex-direction: row;
+}
 .App {
   text-align: center;
+}
+.Par {
+  justify-content: center;
 }
 
 .App-logo {
